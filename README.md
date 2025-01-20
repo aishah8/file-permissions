@@ -37,5 +37,5 @@ Breaking it down:
   - Read: Allows others to view the file.
   - Write: Allows others to modify or delete the file.
   - Execute: Allows others to execute the file, if it’s an executable file.
-
+![image alt](https://github.com/aishah8/file-permissions/blob/79403790aa4b86ab3c4a106d667bfbc98e695932/ss..jpg)
 
